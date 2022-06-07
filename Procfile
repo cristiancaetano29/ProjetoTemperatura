@@ -1,1 +1,1 @@
-worker: node index.jsx
+worker: npm run start
