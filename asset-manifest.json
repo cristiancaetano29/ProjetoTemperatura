@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/temperaura-app/static/css/main.12c9fc2d.css",
-    "main.js": "/temperaura-app/static/js/main.91b82534.js",
-    "index.html": "/temperaura-app/index.html",
-    "main.12c9fc2d.css.map": "/temperaura-app/static/css/main.12c9fc2d.css.map",
-    "main.91b82534.js.map": "/temperaura-app/static/js/main.91b82534.js.map"
+    "main.css": "/temperatura-app/static/css/main.12c9fc2d.css",
+    "main.js": "/temperatura-app/static/js/main.91b82534.js",
+    "index.html": "/temperatura-app/index.html",
+    "main.12c9fc2d.css.map": "/temperatura-app/static/css/main.12c9fc2d.css.map",
+    "main.91b82534.js.map": "/temperatura-app/static/js/main.91b82534.js.map"
   },
   "entrypoints": [
     "static/css/main.12c9fc2d.css",
