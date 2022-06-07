@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/temperatura-app/static/css/main.12c9fc2d.css",
-    "main.js": "/temperatura-app/static/js/main.91b82534.js",
-    "index.html": "/temperatura-app/index.html",
-    "main.12c9fc2d.css.map": "/temperatura-app/static/css/main.12c9fc2d.css.map",
-    "main.91b82534.js.map": "/temperatura-app/static/js/main.91b82534.js.map"
+    "main.css": "/github-pages/static/css/main.12c9fc2d.css",
+    "main.js": "/github-pages/static/js/main.91b82534.js",
+    "index.html": "/github-pages/index.html",
+    "main.12c9fc2d.css.map": "/github-pages/static/css/main.12c9fc2d.css.map",
+    "main.91b82534.js.map": "/github-pages/static/js/main.91b82534.js.map"
   },
   "entrypoints": [
     "static/css/main.12c9fc2d.css",
